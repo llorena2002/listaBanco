@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form {
+  /* Estilos do formulário */
+}
+
+.link {
+  /* Estilos do link */
+}
